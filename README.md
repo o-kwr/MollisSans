@@ -1,4 +1,4 @@
-<img src="https://i.gyazo.com/eff577b93106be3ae6e5f772a1eb2672.jpg">
+<img src="https://i.gyazo.com/79ded1536226e6c36a34f3f1785155e4.jpg">
 
 # MollisSans
 Original Font "Mollis Sans"
